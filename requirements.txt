@@ -1,0 +1,25 @@
+# Embeddings
+sentence-transformers
+
+# Vector DB
+faiss-cpu
+
+# Core ML / math
+numpy
+scikit-learn
+pandas
+
+# File parsing
+pypdf
+python-docx
+
+# Utilities
+tqdm
+pydantic
+python-dotenv
+requests
+
+langchain
+langgraph
+
+
